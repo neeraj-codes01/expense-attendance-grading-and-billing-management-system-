@@ -1,0 +1,6 @@
+name=str(input("enter your name:"))
+birth_year=int(input("enter your birth year:"))
+gpa=float(input("enter your gpa:"))
+is_indian=bool((input("enter your is_indian:")))
+print(name,birth_year,gpa,is_indian)
+print(type(name),type(birth_year),type(gpa),type(is_indian))

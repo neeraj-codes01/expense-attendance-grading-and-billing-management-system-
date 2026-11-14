@@ -1,0 +1,10 @@
+student={
+    "name":"neeraj",
+    "age":18,
+    "city":"mumbai"
+}
+print(student)
+print(type(student))
+print(student["name"])
+print(student["age"])
+print(student["city"])
